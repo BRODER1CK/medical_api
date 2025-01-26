@@ -1,4 +1,4 @@
-# API Server
+# Medical API
 
 ## **Структура репозитория**
 
